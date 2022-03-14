@@ -1,0 +1,11 @@
+print(' Ola mundo cruel, aqui quem fala é a inteligencia artificial,')
+print('criada pelo Guilherme Cardoso.')
+print('')
+print('')
+nome = input ('Qual é o seu nome? ')
+print('')
+print('Ola' ,nome,'o Guilherme mandou voçê ir tomar bem no meio do seu CÚ')
+print('')
+print('')
+print(' Espero que tenho um otimo dia' ,nome,)
+
